@@ -22,4 +22,13 @@
       width: 1260px;
       padding: 24px 12px;
     }
-  }
+}
+
+.title {
+  font-weight: 600;
+  font-size: 42px;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  margin-top: 24px;
+}
